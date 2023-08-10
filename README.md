@@ -1,6 +1,6 @@
-# How to install Laravel10 on Linux distros such as Debian, Kali Linux and Ubuntu ?
+# How to install Laravel10 on Linux distros such as Debian, Kali Linux and Ubuntu in August 2023 ?
 
-To install Laravel on Kali Linux, you'll need to follow these general steps. Please note that software and package versions may have changed since my last knowledge update in September 2021, so make sure to adapt these steps to the latest versions and recommendations.
+To install Laravel on Kali Linux, you'll need to follow these general steps. 
 
 1. **Install Required Software**:
    Before installing Laravel, you need to have a web server, PHP, Composer (a PHP dependency manager), and other necessary components installed.
